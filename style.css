@@ -52,14 +52,13 @@ p {
 }
 
 button {
-    background: hotpink;
+    background: #ff4d88;
     color: white;
     border: none;
-    padding: 14px 28px;
+    padding: 12px 24px;
     border-radius: 25px;
-    cursor: pointer;
     font-size: 18px;
-    margin-top: 20px;
+    cursor: pointer;
 }
 
 button:hover {
