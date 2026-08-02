@@ -22,39 +22,7 @@ function surprise() {
 സായാ തു തൊ ബദൽ ഹമി ഹോ...
 മോസം സാ സാ തേരാ ഹുവാ ഹോ..
 സായാ തു തൊ ബദൽ ഹമി ഹോ..
-മോസം സാ സാ തേരാ ഹുവാ ഹോ
-
-En kannukulla kathaadha
-
-Nenjukulla nachaadha
-
-Solle podhum
-
-Un solle podhum
-
-En anbamothom pichane
-
-Kovam vechu thechaane
-
-Innum venum
-
-Oh innum venum
-
-Vittu pona vaasalile
-
-Vaazhka theera kaathirukken
-
-Kaathilulla kaadhalellam
-
-Kooti kaathu thaarenen naan
-
-Oda oda naan mela saanjika
-
-Theera theera un thollaiya
-
-Eeram eeram kann oram
-
-Medhuvaa kothume....`);
+മോസം സാ സാ തേരാ ഹുവാ ഹോ`);
 }
 
 window.onload = function () {
