@@ -1,8 +1,9 @@
 function playMusic() {
     document.getElementById("bgMusic").play();
 }
+
 function surprise() {
-    alert("തു പാസ് ഹോ മേമേ
+    alert(`തു പാസ് ഹോ മേമേ
 പാസ് ഹോ മേമേ
 മേം കൊകി യീൻസ് കോ ലൈസേ
 തു പാസ് ഹോ മേമേ
@@ -21,7 +22,8 @@ function surprise() {
 സായാ തു തൊ ബദൽ ഹമി ഹോ...
 മോസം സാ സാ തേരാ ഹുവാ ഹോ..
 സായാ തു തൊ ബദൽ ഹമി ഹോ..
-മോസം സാ സാ തേരാ ഹുവാ ഹോ   
+മോസം സാ സാ തേരാ ഹുവാ ഹോ
+
 En kannukulla kathaadha
 
 Nenjukulla nachaadha
@@ -52,7 +54,13 @@ Theera theera un thollaiya
 
 Eeram eeram kann oram
 
-Medhuvaa kothume....");
+Medhuvaa kothume....`);
 }
 
-document.getElementById("countdown").innerHTML = "🕚 11:11";
+window.onload = function () {
+    const countdown = document.getElementById("countdown");
+
+    if (countdown) {
+        countdown.innerHTML = "🕚 11:11";
+    }
+};
