@@ -3,26 +3,37 @@ function playMusic() {
 }
 
 function surprise() {
-    alert(`തു പാസ് ഹോ മേമേ
-പാസ് ഹോ മേമേ
-മേം കൊകി യീൻസ് കോ ലൈസേ
-തു പാസ് ഹോ മേമേ
-പാസ് ഹോ മേമേ
-മേം കൊകി യീൻസ് കോ ലൈസേ
+    alert(`En kannukulla kathaadha
 
-ഹായ് മേർ മി ജാവും
-ജോ തുജ്കോ ന പാവും
-ബാതോനാ മേൻ തേർ
-രാതോനിലാവും
-ഹോന്തോൻ സെ പലം ഹോഠാ
-ഹോ മേ തേരാ ഹായ
-തുജ്കോ ഹി പാവും
-മേൻ തുജ്കോ പാവും
+Nenjukulla nachaadha
 
-സായാ തു തൊ ബദൽ ഹമി ഹോ...
-മോസം സാ സാ തേരാ ഹുവാ ഹോ..
-സായാ തു തൊ ബദൽ ഹമി ഹോ..
-മോസം സാ സാ തേരാ ഹുവാ ഹോ`);
+Solle podhum
+
+Un solle podhum
+
+En ambamothom pichane
+
+Kovam vechu theccaane
+
+Innum venum
+
+Oh innum venum
+
+Vittu pona vaasalile
+
+Vaazhka theera kaathirukken
+
+Kaathilulla kaadhalellam
+
+Kooti kaathu thaarenen naan
+
+Oda oda naan mela saanjika
+
+Theera theera un thollilaya
+
+Eeram eeram kann oram
+
+Medhuvaa kothume....`);
 }
 
 window.onload = function () {
